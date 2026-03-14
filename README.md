@@ -56,7 +56,7 @@ Nine models were trained and evaluated. **Logistic Regression** achieved the hig
 | Negative | 0.88 | 0.90 | 0.89 |
 | Positive | 0.90 | 0.87 | 0.88 |
 
-![Model Comparison Chart](model_comparison.png)
+![Model Comparison Chart](Model_Comparison_Chart.png)
 
 ---
 
